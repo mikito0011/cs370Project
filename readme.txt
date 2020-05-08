@@ -3,8 +3,7 @@ Phase3: Database Management System for the website, Open Textbook Library
 
 Introduction
 This program allows user to search textbooks and store the data online and to access the data with offline queries.
-Users can also perform data manipulation of inserting, modifying, deleting records. This program requires users to register for the account to utilize functionalities of this
-database system fully. A guest user only can search textbooks online but cannot store records. For a use account and admin, they can search online, store records, and manipulate the records.
+Users can also perform data manipulation of inserting, modifying, deleting records. This program requires users to register for the account to utilize functionalities of this database system fully. A guest user only can search textbooks online but cannot store records. For a use account and admin, they can search online, store records, and manipulate the records.
 In addition, they can report the records data via email. Only admin users can access all users' records and log files.
 
 Requirements
